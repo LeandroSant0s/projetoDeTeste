@@ -1,5 +1,5 @@
 public class Fatorial{
-    // Versao iterativa
+    // Versao iterativa, incluindo para n igual zero
     public int calculaFatorial(int n){
          if (n<0)
                System.out.println("Error");
